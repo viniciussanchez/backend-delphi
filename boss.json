@@ -1,0 +1,12 @@
+{
+	"name": "backend-delphi",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.1.6",
+		"github.com/viniciussanchez/dataset-serialize": "^v2.5.9"
+	}
+}
